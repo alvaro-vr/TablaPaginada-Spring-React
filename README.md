@@ -4,7 +4,7 @@ Este es un mini proyecto donde aplico el acceso a datos con Spring Data JPA, par
 
 Mientras tanto, React controla la api creando su propio servicio donde llama a la API REST.
 
-![alt text](./DemoTablaPaginada.png)
+![alt text](./DemoTablaPaginada.png)(*VIDEO DEMO:* https://streamable.com/l3e8no)
 
 ## Desplegar el proyecto
 
